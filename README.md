@@ -1,3 +1,6 @@
+# Introduction
+The focus of the project is to identify an app from its network traffic. The dataset was collected by running 30,000 apps from 4 different categories. Extract 8 features from network packets and then used Radial Basis Function (RBF) kernel support vector machine(SVM), 10-fold cross validation on Spark to train a model that can identify an app from its network traffic. The model accuracy is around 88.4%.
+
 Team Members
 -----------
 
